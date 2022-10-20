@@ -73,7 +73,7 @@ const mongoPersistence = require("aedes-persistence-mongodb");
 
 //const MONGO_URL = 'mongodb://127.0.0.1/aedes-clusters'
 const MONGO_URL =
-  "mongodb+srv://bigBargains:bigBargains123@cluster0.wrkeb.mongodb.net/aedes-clusters";
+  "";
 
 function startAedes() {
   const port = 1883;
