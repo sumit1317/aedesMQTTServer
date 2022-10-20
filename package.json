@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aedes": "^0.48.0"
+    "aedes": "^0.48.0",
+    "aedes-persistence-mongodb": "^9.1.0",
+    "cluster": "^0.7.7",
+    "mqemitter-mongodb": "^8.1.0"
   }
 }
